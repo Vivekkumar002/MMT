@@ -1,0 +1,423 @@
+2021-03-02 15:59:56,349 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-02 16:01:24,262 [Worker-8: Creating project "appiumProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appiumProject:appiumProject:0.0.1-SNAPSHOT @ C:\Users\FLOPPY\Appium\appiumProject\pom.xml.
+2021-03-02 16:01:28,622 [Worker-8: Creating project "appiumProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appiumProject/src/main/java
+2021-03-02 16:01:28,625 [Worker-8: Creating project "appiumProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appiumProject/src/main/resources
+2021-03-02 16:01:28,627 [Worker-8: Creating project "appiumProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /appiumProject/src/test/java
+2021-03-02 16:01:28,627 [Worker-8: Creating project "appiumProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /appiumProject/src/test/resources
+2021-03-02 16:01:38,208 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:01:38,252 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:01:38,266 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:01:38,279 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:03:55,232 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appiumProject:appiumProject:0.0.1-SNAPSHOT @ C:\Users\FLOPPY\Appium\appiumProject\pom.xml.
+2021-03-02 16:04:02,010 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1.pom
+2021-03-02 16:04:03,884 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1.pom
+2021-03-02 16:04:04,291 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.pom
+2021-03-02 16:04:04,782 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.pom
+2021-03-02 16:04:05,151 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.6/gson-parent-2.8.6.pom
+2021-03-02 16:04:05,576 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.6/gson-parent-2.8.6.pom
+2021-03-02 16:04:07,231 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+2021-03-02 16:04:08,071 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+2021-03-02 16:04:08,664 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+2021-03-02 16:04:11,597 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+2021-03-02 16:04:12,105 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom
+2021-03-02 16:04:16,380 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom
+2021-03-02 16:04:16,737 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2021-03-02 16:04:21,750 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom
+2021-03-02 16:04:22,114 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.pom
+2021-03-02 16:04:22,903 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.pom
+2021-03-02 16:04:23,290 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom
+2021-03-02 16:04:26,161 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom
+2021-03-02 16:04:26,761 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2021-03-02 16:04:30,806 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2021-03-02 16:04:31,194 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2021-03-02 16:04:44,191 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2021-03-02 16:04:45,442 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2021-03-02 16:04:47,756 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2021-03-02 16:04:49,561 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0.pom
+2021-03-02 16:04:49,917 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0.pom
+2021-03-02 16:04:51,188 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/cglib/cglib-parent/3.3.0/cglib-parent-3.3.0.pom
+2021-03-02 16:04:52,054 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cglib/cglib-parent/3.3.0/cglib-parent-3.3.0.pom
+2021-03-02 16:04:52,429 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1.pom
+2021-03-02 16:04:53,909 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1.pom
+2021-03-02 16:04:54,363 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2021-03-02 16:05:03,889 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2021-03-02 16:05:04,257 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7.pom
+2021-03-02 16:05:08,674 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7.pom
+2021-03-02 16:05:09,337 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.pom
+2021-03-02 16:05:12,774 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.pom
+2021-03-02 16:05:16,368 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/47/commons-parent-47.pom
+2021-03-02 16:05:28,905 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/47/commons-parent-47.pom
+2021-03-02 16:05:29,424 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2021-03-02 16:05:31,317 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2021-03-02 16:05:31,811 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom
+2021-03-02 16:05:34,355 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.pom
+2021-03-02 16:05:35,593 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2021-03-02 16:05:48,481 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2021-03-02 16:05:53,544 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2021-03-02 16:05:55,013 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2021-03-02 16:06:00,712 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2021-03-02 16:06:01,098 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2021-03-02 16:06:01,676 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2021-03-02 16:06:08,350 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2021-03-02 16:06:13,526 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2021-03-02 16:06:14,094 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2021-03-02 16:06:19,159 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.pom
+2021-03-02 16:06:19,536 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.pom
+2021-03-02 16:06:21,757 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2021-03-02 16:06:26,354 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2021-03-02 16:06:26,853 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1.pom
+2021-03-02 16:06:27,235 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1.pom
+2021-03-02 16:06:27,631 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1.pom
+2021-03-02 16:06:28,055 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1.pom
+2021-03-02 16:06:28,456 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1.pom
+2021-03-02 16:06:28,806 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1.pom
+2021-03-02 16:06:29,151 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1.pom
+2021-03-02 16:06:29,591 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1.pom
+2021-03-02 16:06:29,958 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1.pom
+2021-03-02 16:06:31,892 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1.pom
+2021-03-02 16:06:33,227 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1.pom
+2021-03-02 16:06:33,613 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1.pom
+2021-03-02 16:06:33,984 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.pom
+2021-03-02 16:06:34,449 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.pom
+2021-03-02 16:06:38,289 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1.jar
+2021-03-02 16:07:14,304 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1.jar
+2021-03-02 16:07:16,689 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar
+2021-03-02 16:07:54,659 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar
+2021-03-02 16:08:00,215 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+2021-03-02 16:11:06,592 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+2021-03-02 16:11:10,107 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar
+2021-03-02 16:11:18,914 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar
+2021-03-02 16:11:19,406 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2021-03-02 16:11:51,669 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2021-03-02 16:11:57,631 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0.jar
+2021-03-02 16:12:50,013 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0.jar
+2021-03-02 16:12:51,928 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1.jar
+2021-03-02 16:13:10,416 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1.jar
+2021-03-02 16:13:13,838 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7.jar
+2021-03-02 16:17:13,823 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7.jar
+2021-03-02 16:17:20,174 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar
+2021-03-02 16:18:00,589 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar
+2021-03-02 16:18:01,374 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2021-03-02 16:18:32,857 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2021-03-02 16:18:35,550 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+2021-03-02 16:23:39,540 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+2021-03-02 16:23:42,486 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar
+2021-03-02 16:24:27,735 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar
+2021-03-02 16:24:30,018 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1.jar
+2021-03-02 16:27:26,923 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1.jar
+2021-03-02 16:27:28,455 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1.jar
+2021-03-02 16:27:53,493 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1.jar
+2021-03-02 16:27:54,387 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1.jar
+2021-03-02 16:28:16,255 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1.jar
+2021-03-02 16:28:17,533 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1.jar
+2021-03-02 16:29:04,521 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1.jar
+2021-03-02 16:29:07,404 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1.jar
+2021-03-02 16:29:08,467 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1.jar
+2021-03-02 16:29:09,174 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1.jar
+2021-03-02 16:29:16,921 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1.jar
+2021-03-02 16:29:17,583 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar
+2021-03-02 16:29:50,371 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar
+2021-03-02 16:30:06,397 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:30:06,586 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:30:06,590 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:30:06,610 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:30:08,993 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1-sources.jar
+2021-03-02 16:30:11,439 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appiumProject:appiumProject:0.0.1-SNAPSHOT @ C:\Users\FLOPPY\Appium\appiumProject\pom.xml.
+2021-03-02 16:30:12,194 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:30:12,209 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:30:12,213 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:30:12,225 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:30:16,848 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/appium/java-client/7.4.1/java-client-7.4.1-sources.jar
+2021-03-02 16:30:17,098 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.appium:java-client:7.4.1
+2021-03-02 16:30:17,456 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6-sources.jar
+2021-03-02 16:30:22,043 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6-sources.jar
+2021-03-02 16:30:22,257 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2021-03-02 16:30:22,527 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2021-03-02 16:30:32,494 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2021-03-02 16:30:32,730 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2021-03-02 16:30:32,998 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13-sources.jar
+2021-03-02 16:30:39,505 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13-sources.jar
+2021-03-02 16:30:39,757 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.13
+2021-03-02 16:30:40,208 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2021-03-02 16:30:42,864 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2021-03-02 16:30:43,111 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2021-03-02 16:30:43,391 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0-sources.jar
+2021-03-02 16:30:44,621 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cglib/cglib/3.3.0/cglib-3.3.0-sources.jar
+2021-03-02 16:30:44,933 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for cglib:cglib:3.3.0
+2021-03-02 16:30:45,239 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1-sources.jar
+2021-03-02 16:30:46,372 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/7.1/asm-7.1-sources.jar
+2021-03-02 16:30:47,875 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:7.1
+2021-03-02 16:30:48,697 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7-sources.jar
+2021-03-02 16:30:49,910 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.7/commons-validator-1.7-sources.jar
+2021-03-02 16:30:50,176 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-validator:commons-validator:1.7
+2021-03-02 16:30:50,495 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2021-03-02 16:30:51,586 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar
+2021-03-02 16:30:51,816 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.9.4
+2021-03-02 16:30:52,130 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1-sources.jar
+2021-03-02 16:30:52,997 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1-sources.jar
+2021-03-02 16:30:53,314 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.1
+2021-03-02 16:30:54,947 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2021-03-02 16:30:57,454 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2021-03-02 16:30:57,753 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2021-03-02 16:30:58,065 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2021-03-02 16:30:59,116 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0-sources.jar
+2021-03-02 16:30:59,383 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.8.0
+2021-03-02 16:30:59,672 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar
+2021-03-02 16:31:04,749 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar
+2021-03-02 16:31:05,032 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.1
+2021-03-02 16:31:05,550 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1-sources.jar
+2021-03-02 16:31:09,516 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.1/spring-aop-5.3.1-sources.jar
+2021-03-02 16:31:09,767 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.1
+2021-03-02 16:31:10,220 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar
+2021-03-02 16:31:16,705 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar
+2021-03-02 16:31:16,890 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.1
+2021-03-02 16:31:17,215 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar
+2021-03-02 16:31:22,612 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar
+2021-03-02 16:31:22,996 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.1
+2021-03-02 16:31:23,321 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1-sources.jar
+2021-03-02 16:31:24,040 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.1/spring-jcl-5.3.1-sources.jar
+2021-03-02 16:31:24,374 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.1
+2021-03-02 16:31:24,870 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1-sources.jar
+2021-03-02 16:31:27,238 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.1/spring-expression-5.3.1-sources.jar
+2021-03-02 16:31:27,511 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.1
+2021-03-02 16:31:27,890 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar
+2021-03-02 16:31:34,543 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar
+2021-03-02 16:31:34,745 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.9.6
+2021-03-02 16:31:35,107 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:31:35,121 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:31:35,124 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:31:35,137 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:31:35,983 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.appium:java-client:7.4.1
+2021-03-02 16:31:35,995 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2021-03-02 16:31:36,008 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2021-03-02 16:31:36,023 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.13
+2021-03-02 16:31:36,034 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2021-03-02 16:31:36,046 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for cglib:cglib:3.3.0
+2021-03-02 16:31:36,061 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:7.1
+2021-03-02 16:31:36,078 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-validator:commons-validator:1.7
+2021-03-02 16:31:36,093 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.9.4
+2021-03-02 16:31:36,120 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.1
+2021-03-02 16:31:36,131 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2021-03-02 16:31:36,143 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.8.0
+2021-03-02 16:31:36,164 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.1
+2021-03-02 16:31:36,179 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.1
+2021-03-02 16:31:36,191 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.1
+2021-03-02 16:31:36,205 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.1
+2021-03-02 16:31:36,215 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.1
+2021-03-02 16:31:36,226 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.1
+2021-03-02 16:31:36,239 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.9.6
+2021-03-02 16:31:36,464 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:31:36,479 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:31:36,481 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:31:36,495 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:32,224 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:32,941 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:32,943 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:32,998 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:34,200 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:34,226 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:34,228 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:34,272 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:50,627 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:50,637 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 16:40:50,639 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 16:40:50,648 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 18:40:48,543 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 18:40:51,978 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 18:40:52,023 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-02 18:40:52,041 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 08:53:31,796 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 10:44:36,129 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 10:44:36,422 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 10:44:36,425 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 10:44:36,434 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 10:59:26,497 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 10:59:26,611 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 10:59:26,613 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 10:59:26,625 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:02:33,389 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:02:33,677 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:02:33,680 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:02:33,691 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:04:46,856 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:04:46,905 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:04:46,911 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:04:46,926 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:13:24,125 [Worker-23: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:13:24,226 [Worker-23: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:13:24,230 [Worker-23: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:13:24,247 [Worker-23: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:15:43,545 [Worker-22: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:15:43,597 [Worker-22: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:15:43,600 [Worker-22: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:15:43,612 [Worker-22: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:16:58,118 [Worker-28: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:16:58,158 [Worker-28: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:16:58,161 [Worker-28: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:16:58,180 [Worker-28: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:23:20,133 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:23:20,922 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 11:23:20,925 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 11:23:20,940 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 12:54:02,525 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 13:00:31,009 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:00:31,149 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 13:00:31,154 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:00:31,165 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 13:36:13,973 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 13:43:32,018 [Worker-1: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:43:32,194 [Worker-1: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 13:43:32,206 [Worker-1: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:43:32,242 [Worker-1: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 13:46:45,062 [Worker-3: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:46:45,196 [Worker-3: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 13:46:45,198 [Worker-3: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 13:46:45,218 [Worker-3: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:02:54,604 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-03 16:25:42,869 [Worker-13: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:25:43,036 [Worker-13: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:25:43,041 [Worker-13: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:25:43,102 [Worker-13: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:34:20,975 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:34:21,175 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:34:21,175 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:34:21,206 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:37:01,645 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:37:01,725 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:37:01,729 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:37:01,742 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:38:04,273 [Worker-15: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:38:04,333 [Worker-15: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:38:04,335 [Worker-15: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:38:04,367 [Worker-15: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:40:14,392 [Worker-1: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:40:14,432 [Worker-1: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:40:14,436 [Worker-1: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:40:14,447 [Worker-1: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:43:11,900 [Worker-17: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:43:11,983 [Worker-17: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:43:11,985 [Worker-17: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:43:12,001 [Worker-17: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:48:40,291 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:48:40,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 16:48:40,342 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 16:48:40,354 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:00:03,933 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: appiumProject:appiumProject:0.0.1-SNAPSHOT @ C:\Users\FLOPPY\Appium\appiumProject\pom.xml.
+2021-03-03 17:00:11,497 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:00:11,590 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:00:11,599 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:00:11,610 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:00:13,947 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:00:13,964 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:00:13,966 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:00:13,977 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:04:54,618 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:04:54,762 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:04:54,764 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:04:54,780 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:06:15,266 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:06:15,317 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:06:15,319 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:06:15,329 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:07:43,367 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:07:43,853 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:07:43,853 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:07:43,985 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:09:18,109 [Worker-20: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:09:18,188 [Worker-20: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:09:18,190 [Worker-20: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:09:18,204 [Worker-20: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:12:45,681 [Worker-24: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:12:45,739 [Worker-24: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:12:45,740 [Worker-24: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:12:45,749 [Worker-24: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:14:17,917 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:14:17,977 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:14:18,016 [Worker-0: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:14:18,048 [Worker-0: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:22:53,084 [Worker-28: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:22:53,180 [Worker-28: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 17:22:53,182 [Worker-28: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 17:22:53,195 [Worker-28: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:34:07,995 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 18:35:50,065 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:35:50,123 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:35:50,128 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:35:50,141 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:37:29,730 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:37:29,814 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:37:29,816 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:37:29,826 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:38:37,109 [Worker-4: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:38:37,147 [Worker-4: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:38:37,150 [Worker-4: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:38:37,170 [Worker-4: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:39:38,889 [Worker-8: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:39:38,905 [Worker-8: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:39:38,909 [Worker-8: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:39:38,924 [Worker-8: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:40:57,693 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:40:57,703 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:40:57,705 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:40:57,714 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:44:51,138 [Worker-10: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:44:51,222 [Worker-10: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:44:51,224 [Worker-10: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:44:51,233 [Worker-10: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:51:10,652 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:51:10,749 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:51:10,751 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:51:10,761 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:53:35,176 [Worker-10: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:53:35,279 [Worker-10: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:53:35,284 [Worker-10: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:53:35,292 [Worker-10: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:53:49,658 [Worker-17: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:53:49,668 [Worker-17: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:53:49,670 [Worker-17: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:53:49,678 [Worker-17: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:56:18,724 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:56:18,763 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 18:56:18,765 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 18:56:18,774 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:00:45,535 [Worker-16: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:00:45,574 [Worker-16: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:00:45,603 [Worker-16: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:00:45,612 [Worker-16: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:01:55,225 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:01:55,262 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:01:55,264 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:01:55,273 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:03:57,711 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:03:57,754 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:03:57,756 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:03:57,767 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:05:07,651 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:05:07,660 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:05:07,662 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:05:07,674 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:08:02,372 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:08:02,412 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:08:02,415 [Worker-14: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:08:02,427 [Worker-14: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:09:37,922 [Worker-13: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:09:37,960 [Worker-13: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:09:37,963 [Worker-13: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:09:37,973 [Worker-13: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:10:36,734 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:10:36,839 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:10:36,841 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:10:36,858 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:11:56,356 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:11:56,371 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:11:56,373 [Worker-18: Launching Appium_first] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:11:56,399 [Worker-18: Launching Appium_first] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:13:31,296 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:13:31,333 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:13:31,335 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:13:31,347 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:36:44,447 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-03 19:44:27,118 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:44:27,250 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-03 19:44:27,259 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-03-03 19:44:27,283 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

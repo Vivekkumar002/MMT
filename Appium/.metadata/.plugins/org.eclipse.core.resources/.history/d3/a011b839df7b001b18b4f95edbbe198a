@@ -1,0 +1,17 @@
+package appiumProject;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+public class Appium_first {
+
+	public static void main(String[] args) {
+		
+	}
+	public void calculator() {
+		DesiredCapabilities dec= new DesiredCapabilities();
+		dec.setCapability("", "");
+		dec.setCapability("", "");
+		dec.setCapability("", "");
+		dec.setCapability("", "");
+	}
+}
