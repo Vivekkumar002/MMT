@@ -1,0 +1,8 @@
+Title: Locators for mmt mobile app for searching flights bw stations
+
+source: id: com.makemytrip:id/depCity
+destination: id: com.makemytrip:id/arrCity
+search: id: com.makemytrip:id/searchFlights
+editSource: id: com.makemytrip:id/city_edit_text
+select: xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]
+head: id: com.makemytrip:id/tv_heading_new

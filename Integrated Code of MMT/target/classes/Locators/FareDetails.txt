@@ -1,0 +1,4 @@
+Title: Locators for fair details on mmt mobile app 
+
+flight_names: id: com.makemytrip:id/airline_name
+fare: id: com.makemytrip:id/tv_final_fare

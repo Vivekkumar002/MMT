@@ -1,0 +1,10 @@
+Title: Locators of Booking Page
+
+from: id: fromCity
+source: cssSelector: [placeholder='From']
+suggest: cssSelector: div[class='react-autosuggest__section-container react-autosuggest__section-container--first'] ul >li
+destination: cssSelector: [placeholder='To']
+date: xpath: //div[@aria-label="Sat Mar 27 2021"]
+search: cssSelector: [class='primaryBtn font24 latoBold widgetSearchBtn ']
+flight: cssSelector: [class='makeFlex perfectCenter appendRight15']
+price: cssSelector: [class='appendRight12 textRight flexOne']

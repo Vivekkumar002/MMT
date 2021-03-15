@@ -1,0 +1,6 @@
+Title: Locators of Login Page 
+
+
+login: xpath: //p[text()='Login/Signup for Best Prices']
+outsideModel: cssSelector: [data-cy="outsideModal"]
+
