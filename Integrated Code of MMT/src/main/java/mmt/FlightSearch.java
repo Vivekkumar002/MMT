@@ -26,7 +26,6 @@ public class FlightSearch extends LocatorProvider {
 
 		driver.findElement(from).click();
 		driver.findElement(source).sendKeys(sourceLocation);
-		Thread.sleep(8000);
 		driver.findElement(suggest).click();
 	}
 
@@ -39,7 +38,6 @@ public class FlightSearch extends LocatorProvider {
 		By destination = LocatorProvider("destination");
 
 		driver.findElement(destination).sendKeys(desinationLocation);
-		Thread.sleep(8000);
 		driver.findElement(suggest).click();
 	}
 
