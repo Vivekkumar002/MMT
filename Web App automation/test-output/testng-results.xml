@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95475" started-at="2021-03-18T15:16:38Z" finished-at="2021-03-18T15:18:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95475" started-at="2021-03-18T15:16:38Z" finished-at="2021-03-18T15:18:14Z">
+      <class name="mmt.mmtAssignmnet">
+        <test-method status="PASS" signature="platformSelecion()[pri:0, instance:mmt.mmtAssignmnet@5700d6b1]" name="platformSelecion" duration-ms="95413" started-at="2021-03-18T15:16:38Z" finished-at="2021-03-18T15:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- platformSelecion -->
+      </class> <!-- mmt.mmtAssignmnet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

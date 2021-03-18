@@ -1,0 +1,8 @@
+Title: Locators for flight details on mmt wep app 
+
+flight: xpath: //span[@class="appendTop8"]
+close: xpath: //span[@data-cy="close"]
+source: xpath: //span [@class="makeFlex end appendBottom2"]
+inputLocation: id: autoSuggestWidget
+search: xpath: //button[@data-cy="search"]
+select: xpath: //li[@data-cy="suggestions-0"]
