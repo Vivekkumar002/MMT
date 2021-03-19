@@ -20,7 +20,7 @@ public class SourceAndDesinationInApp extends LocatorProvider {
 		System.out.println(source);
 		mob_driver.findElement(source).click();
 		mob_driver.findElement(editSource).sendKeys(place);
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		mob_driver.findElement(select).click();
 
 	}
@@ -34,7 +34,7 @@ public class SourceAndDesinationInApp extends LocatorProvider {
 
 		mob_driver.findElement(destination).click();
 		mob_driver.findElement(editSource).sendKeys(place);
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		mob_driver.findElement(select).click();
 
 	}
