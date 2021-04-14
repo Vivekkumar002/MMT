@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="285" started-at="2021-04-14T06:46:35Z" finished-at="2021-04-14T06:46:35Z">
+    <groups>
+      <group name="tests">
+        <method signature="testinggg.insert()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="insert" class="jenkinsTest.testinggg"/>
+        <method signature="testinggg.select()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="select" class="jenkinsTest.testinggg"/>
+        <method signature="testinggg.update()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="update" class="jenkinsTest.testinggg"/>
+        <method signature="testinggg.delete()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="delete" class="jenkinsTest.testinggg"/>
+      </group> <!-- tests -->
+      <group name="pre-tests">
+        <method signature="testinggg.init()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="init" class="jenkinsTest.testinggg"/>
+      </group> <!-- pre-tests -->
+    </groups>
+    <test name="Test" duration-ms="285" started-at="2021-04-14T06:46:35Z" finished-at="2021-04-14T06:46:35Z">
+      <class name="jenkinsTest.testinggg">
+        <test-method status="PASS" signature="init()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="init" duration-ms="51" started-at="2021-04-14T06:46:35Z" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="insert()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="insert" duration-ms="8" depends-on-groups="pre-tests" started-at="2021-04-14T06:46:35Z" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insert -->
+        <test-method status="PASS" signature="select()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="select" duration-ms="23" started-at="2021-04-14T06:46:35Z" depends-on-methods="jenkinsTest.testinggg.insert" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method status="PASS" signature="update()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="update" duration-ms="8" started-at="2021-04-14T06:46:35Z" depends-on-methods="jenkinsTest.testinggg.select" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method status="PASS" signature="delete()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="delete" duration-ms="10" started-at="2021-04-14T06:46:35Z" depends-on-methods="jenkinsTest.testinggg.insert, jenkinsTest.testinggg.update" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:jenkinsTest.testinggg@7c8d5312]" name="cleanup" duration-ms="5" depends-on-groups="tests" started-at="2021-04-14T06:46:35Z" finished-at="2021-04-14T06:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- jenkinsTest.testinggg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
